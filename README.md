@@ -16,7 +16,7 @@
 Texas State University, 2023  
 Relevant coursework: Data Structures & Algorithms, Object-Oriented Design & Programming, Operating Systems, Software Engineering, Computer Systems Security
 
-- Data Analytics Essentials  
+- **Data Analytics Essentials**  
 University of Texas at Austin, 2024  
 Topics: Excel, Python Programming, Descriptive Statistics, Data Analytics Foundations, SQL, and Exploratory Data Analysis with Python
 
