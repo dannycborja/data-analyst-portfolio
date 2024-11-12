@@ -1,9 +1,10 @@
 # Danny Borja - Data Analyst Portfolio
 
-
+Welcome to my Data Analyst Portfolio! This repository features a curated collection of my data analysis projects, showcasing my expertise in data cleaning, visualization, statistical analysis, and predictive modeling. Each project is thoroughly documented, including the code and insights derived from real-world datasets.
 
 ## About Me
 
+I am an aspiring data analyst with a strong foundation in computer science and a background in healthcare. My passion lies in transforming complex data into actionable insights that drive informed decision-making. I am actively seeking opportunities to apply my analytical skills and technical knowledge in data-driven organizations.
 
 ## Skills
 
