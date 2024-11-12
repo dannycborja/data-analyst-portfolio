@@ -4,7 +4,7 @@ Welcome to my Data Analyst Portfolio! This repository features a curated collect
 
 ## About Me
 
-I am an aspiring data analyst with a strong foundation in computer science and a background in healthcare. My passion lies in transforming complex data into actionable insights that drive informed decision-making. I am actively seeking opportunities to apply my analytical skills and technical knowledge in data-driven organizations.
+I am a data analyst with a strong foundation in computer science and a background in healthcare. My passion lies in transforming complex data into actionable insights that drive informed decision-making. I am actively seeking opportunities to apply my analytical skills and technical knowledge in data-driven organizations.
 
 ## Skills
 - **Data Analysis & Visualization:** Excel (Pivot Tables, Charts), Python (Pandas, Seaborn, Matplotlib)
