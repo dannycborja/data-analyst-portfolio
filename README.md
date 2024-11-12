@@ -9,10 +9,10 @@
 
 
 ## Projects
-1. **New Wheels: Vehicle Sales Analysis**  
+1. ####**New Wheels: Vehicle Sales Analysis**  
 -
 
-2. **FoodHub: Improving Restaurant Demand and Customer Experience**
+2. ####**FoodHub: Improving Restaurant Demand and Customer Experience**
 - **Objective:** Analyze customer order data to uncover trends in restaurant demand, customer satisfaction, and delivery performance, helping FoodHub optimize their operations and enhance customer experience.  
 - **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook, GitHub Pages (for hosting the HTML report).  
 - **Skills Demonstrated:** Exploratory Data Analysis (EDA), Data Visualization, Statistical Testing (ANOVA, hypothesis testing), Business Insight Generation, Effective communication through visual reports.  
