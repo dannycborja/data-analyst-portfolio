@@ -34,6 +34,7 @@ University of Texas at Austin, 2024
 **Topics:** Excel, Python Programming, Descriptive Statistics, Data Analytics Foundations, SQL, and Exploratory Data Analysis with Python
 
 ## Certifications
+- PL-300: Microsoft Power BI Data Analyst *(In Progress)*
 - SQL for Data Science (University of California, Davis)
 
 ## Contact Me
