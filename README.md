@@ -10,7 +10,11 @@
 
 ## Projects
 ### **1. New Wheels: Vehicle Sales Analysis**  
--
+- **Objective:** Analyze sales and customer feedback data for New-Wheels, a vehicle resale company, to identify trends in customer preferences, revenue performance, and satisfaction levels. The goal is to provide actionable insights for improving business operations and customer experience.
+- **Tools:** SQL (via online platform)
+- **Skills Demonstrated:** Database querying, business metric analysis, trend identification, and effective communication of insights through structured reports.
+- **Key Outcomes:** Uncovered declining revenue and increasing customer dissatisfaction trends, analyzed regional customer distributions, and identified vehicle brands with the highest demand. Provided recommendations to optimize shipping times and improve customer retention strategies.
+- [**View Project** ](https://github.com/dannycborja/new-wheels-sql-analysis)  
 
 ### **2. FoodHub: Improving Restaurant Demand and Customer Experience**
 - **Objective:** Analyze customer order data to uncover trends in restaurant demand, customer satisfaction, and delivery performance, helping FoodHub optimize their operations and enhance customer experience.  
