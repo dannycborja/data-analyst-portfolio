@@ -41,9 +41,9 @@ Texas State University, 2023
 **Relevant coursework:** Data Structures & Algorithms, Object-Oriented Design & Programming, Operating Systems, Software Engineering, Computer Systems Security
 
 ## Professional Development
-- Data Analytics Essentials Certificate – University of Texas at Austin, McCombs School of Business (Dec 2024)
-- PL-300 Training Program: Microsoft Power BI Data Analyst – Microsoft & Great Learning (Jan 2025)                   
-- SQL for Data Science (University of California, Davis)
+- **Data Analytics Essentials Certificate** – University of Texas at Austin, McCombs School of Business (Dec 2024)
+- **PL-300 Training Program: Microsoft Power BI Data Analyst** – Microsoft & Great Learning (Jan 2025)                   
+- **SQL for Data Science** (University of California, Davis)
 
 ## Contact Me
 - **Email**: dannycborja@gmail.com
