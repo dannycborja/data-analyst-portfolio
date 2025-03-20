@@ -7,7 +7,7 @@ Welcome to my Data Analyst Portfolio! This repository features a curated collect
 I am a data analyst with a strong foundation in computer science and a background in healthcare. My passion lies in transforming complex data into actionable insights that drive informed decision-making. I am actively seeking opportunities to apply my analytical skills and technical knowledge in data-driven organizations.
 
 ## Skills
-- **Data Analysis & Visualization:** Excel (Pivot Tables, Charts), Python (Pandas, NumPy, Seaborn, Matplotlib)
+- **Data Analysis & Visualization:** Excel (Pivot Tables, Charts), Python (Pandas, NumPy, Seaborn, Matplotlib), Power BI
 - **Statistical Analysis:** Central Tendency, Dispersion, Exploratory Data Analysis
 - **SQL & Databases:** Querying (SELECT, JOIN, Window Functions), MySQL
 - **Python Programming:** Data Structures, Loops, Functions
@@ -40,12 +40,9 @@ I am a data analyst with a strong foundation in computer science and a backgroun
 Texas State University, 2023  
 **Relevant coursework:** Data Structures & Algorithms, Object-Oriented Design & Programming, Operating Systems, Software Engineering, Computer Systems Security
 
-- **Data Analytics Essentials**  
-University of Texas at Austin, 2024  
-**Topics:** Excel, Python Programming, Descriptive Statistics, Data Analytics Foundations, SQL, and Exploratory Data Analysis with Python
-
-## Certifications
-- PL-300: Microsoft Power BI Data Analyst *(In Progress)*
+## Professional Development
+- Data Analytics Essentials Certificate – University of Texas at Austin, McCombs School of Business (Dec 2024)
+- PL-300 Training Program: Microsoft Power BI Data Analyst – Microsoft & Great Learning (Jan 2025)                   
 - SQL for Data Science (University of California, Davis)
 
 ## Contact Me
