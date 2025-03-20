@@ -28,6 +28,22 @@ I am a data analyst with a strong foundation in computer science and a backgroun
 - **Key Outcomes:** Identified top-performing cuisines and restaurants, analyzed delivery efficiency during peak periods, and provided actionable recommendations to improve customer ratings and optimize delivery times.  
 - [**View Project** ](https://github.com/dannycborja/foodhub-data-analysis)  
 
+### **3. MovieLens: Viewer Trends & Ratings Analysis**
+
+**Objective:**  
+Develop an interactive **Power BI dashboard** analyzing **classic movies (pre-2000)** using the **MovieLens dataset**. The goal is to uncover **user demographics, genre preferences, and rating trends** to provide insights into audience engagement and movie popularity over time.
+
+**Tools:**  
+Power BI (Data Modeling, DAX, Visualization)
+
+**Skills Demonstrated:**  
+Data visualization, interactive dashboard design, user segmentation analysis, trend identification, and effective communication of insights through dynamic reporting.
+
+**Key Outcomes:**  
+Created a **fully interactive dashboard** allowing exploration of **movie ratings, genre diversity, and viewer preferences**. Analyzed **top-rated movies by genre and decade**, identified **demographic-based rating patterns**, and provided **data-driven insights** into audience behavior.
+
+[**View Project**](https://github.com/dannycborja/powerbi-movielens-analysis)**
+
 ## Education
 - **B.S. in Computer Science, Minor in Applied Mathematics**  
 Texas State University, 2023  
